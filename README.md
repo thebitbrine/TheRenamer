@@ -1,4 +1,5 @@
 # TheRenamer
+
 ### A Basic .NET Batch File Renamer With Just A Few Options:
 * Capitalize
 * Dash2Space
@@ -32,3 +33,7 @@ Platfrom | Any CPU
 Current Version | 0.01
 Last Update | 25/6/2017
 Creation Date | 25/6/2017
+
+
+
+###### Why? Because i often download albums and the namings are just not looking good and renaming them all manually is just... \*sigh\*
