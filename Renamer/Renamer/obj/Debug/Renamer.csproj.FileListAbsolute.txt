@@ -1,0 +1,9 @@
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\bin\Debug\Renamer.exe.config
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\bin\Debug\Renamer.exe
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\bin\Debug\Renamer.pdb
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.Form1.resources
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.Properties.Resources.resources
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.csproj.GenerateResource.Cache
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.exe
+C:\Users\black\Documents\Visual Studio 2017\Projects\Renamer\Renamer\obj\Debug\Renamer.pdb
